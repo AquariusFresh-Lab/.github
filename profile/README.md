@@ -28,7 +28,7 @@ Our first planned software product, marking the beginning of the AquariusFresh L
 
 ## Official Documentation
 
-[Read the Declaration of Intent (PDF)](https://github.com/AquariusFresh-Lab/institutional-documents/blob/main/AquariusFresh-Lab-Declaration-of-Intent-2026.pdf)
+[Read the Declaration of Intent (PDF)](https://github.com/AquariusFresh-Lab/Institutional-Documents-AquariusFreshLab/blob/d74a7f9395b2cc1f27b8f61f0ad0fb34dbd422bd/Declaracao_de_Intencao_de_Constituicao_%E2%80%94_AquariusFresh_Lab_assinado.pdf)
 
 ---
 
