@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AFL_logo_png.png" alt="AquariusFresh Lab Logo" width="600">
+  <img src="AFL_logo_png.png" alt="AquariusFresh Lab Logo" width="300">
 </p>
 
 <h1 align="center">AquariusFresh Lab</h1>
