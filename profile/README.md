@@ -21,7 +21,7 @@ Our first planned software product, marking the beginning of the AquariusFresh L
 ## Institutional Information
 
 - **Founder:** Pedro Paulo de Lima (a.k.a. eclipse.exe)
-- **Founded as an initiative:** 11/03/2026
+- **Founded as an initiative:** November 3, 2026
 - **Current status:** Pre-foundation / Independent project
 - **Main activity:** Software development
 - **First product:** FoldAero
